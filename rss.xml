@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Versailles]]></title>
         <description><![CDATA[Versailles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/versailles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 00:21:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 00:35:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/versailles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It feels a bit like we have been hidden from the world.]]></title>
+            <description><![CDATA[<article><h1>It feels a bit like we have been hidden from the world.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f659a11ac46d90af36b83fb6349b2058364549eb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/versailles/it-feels-a-bit-like-we-have-been-hidden-from-the-world/index.html</link>
+            <guid isPermaLink="false">1adbd3e4-ec15-4af3-b801-2f5e8896bbc0</guid>
+            <pubDate>Fri, 18 Mar 2016 00:35:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[piscine Versailles/Versailles pool]]></title>
             <description><![CDATA[<article><h1>piscine Versailles/Versailles pool</h1><p>Il a ete un long hiver.     It's been a long winter.</p></article>]]></description>
-            <link>undefinedpiscine-versaillesversailles-pool/index.html</link>
+            <link>https://thegrid.ai/versailles/piscine-versaillesversailles-pool/index.html</link>
             <guid isPermaLink="false">89960bdd-7ccc-4173-a84d-e6b5cb7344b3</guid>
             <pubDate>Fri, 18 Mar 2016 00:21:20 GMT</pubDate>
         </item>

@@ -1,14 +1,15 @@
 ---
-inFeed: false
-hasPage: true
+inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: "Il a ete un long hiver. \_ \_ It's been a long winter."
-datePublished: '2016-03-18T22:54:07.005Z'
-dateModified: '2016-03-18T22:52:54.441Z'
-title: piscine Versailles/Versailles pool
+datePublished: '2016-03-19T00:33:58.290Z'
+dateModified: '2016-03-19T00:33:48.260Z'
+title: ''
 author: []
 sourcePath: _posts/2016-03-18-piscine-versaillesversailles-pool.md
 published: true
@@ -18,7 +19,6 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: piscine-versaillesversailles-pool/index.html
 _type: Blurb
 
 ---

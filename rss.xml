@@ -4,8 +4,15 @@
         <description><![CDATA[piscine Versailles/Versailles pool]]></description>
         <link>https://thegrid.ai/versailles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 23:50:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2016 23:52:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/versailles/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[watch]]></title>
+            <description><![CDATA[<article><h1>watch</h1><p>just quietly reflecting</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b11be4f48a9e61ee792f1033696898c37912d01.jpg"></article>]]></description>
+            <link>https://thegrid.ai/versailles/just-quietly-reflecting/index.html</link>
+            <guid isPermaLink="false">6bc87217-f97f-4b56-a41d-85deb1b845e6</guid>
+            <pubDate>Sat, 19 Mar 2016 23:52:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[play]]></title>
             <description><![CDATA[<article><h1>play</h1><p>many times at play</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ad84ce6e4cb7b7fe381f2f3c2333899eaf6d0cc.jpg"></article>]]></description>

@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-18T22:53:47.132Z'
-dateModified: '2016-03-18T22:51:35.798Z'
+datePublished: '2016-03-19T00:38:35.464Z'
+dateModified: '2016-03-19T00:38:35.109Z'
 title: It feels a bit like we have been hidden from the world.
 author: []
 sourcePath: _posts/2016-03-18-it-feels-a-bit-like-we-have-been-hidden-from-the-world.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: it-feels-a-bit-like-we-have-been-hidden-from-the-world/index.html
-_type: Article
+_type: Blurb
 
 ---
 # It feels a bit like we have been hidden from the world.

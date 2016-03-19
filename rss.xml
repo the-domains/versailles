@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[piscine Versailles/Versailles pool]]></title>
+        <description><![CDATA[piscine Versailles/Versailles pool]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Mar 2016 23:46:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We are sure you will enjoy the                    surprise.]]></title>
+            <description><![CDATA[<article><h1>We are sure you will enjoy the                    surprise.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c24fb92de04f2819bc2b108d806f219280c5776f.jpg"></article>]]></description>
+            <link>undefinedwe-are-sure-you-will-enjoy-the-surprise/index.html</link>
+            <guid isPermaLink="false">93b01e92-2f28-40e6-999a-605061ff55d0</guid>
+            <pubDate>Sat, 19 Mar 2016 23:46:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

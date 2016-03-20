@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-20T00:03:09.626Z'
-dateModified: '2016-03-19T23:42:13.186Z'
+description: and far too long since we have been by our place by the river
+datePublished: '2016-03-20T00:51:04.538Z'
+dateModified: '2016-03-20T00:45:37.027Z'
 title: "It's been a long winter"
 author: []
+sourcePath: _posts/2016-03-20-its-been-a-long-winter.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-20-its-been-a-long-winter.md
-published: true
-url: its-been-a-long-winter/index.html
-_type: Article
+_type: Blurb
 
 ---
 # It's been a long winter

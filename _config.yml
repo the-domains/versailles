@@ -1,6 +1,6 @@
 name: Versailles
 favicon: null
-layout_spectrum: 0.50281
+layout_spectrum: 0.89127
 typography_spectrum: 0.85584
 title: piscine Versailles/Versailles pool
 cta:
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0.6875
-  rhythmicContrast: 0.5
+  brandStrength: 0.125
+  lightness: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
